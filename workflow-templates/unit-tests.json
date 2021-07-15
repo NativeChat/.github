@@ -1,0 +1,8 @@
+{
+  "name": "Unit Tests",
+  "description": "NativeChat CI unit tests template.",
+  "iconName": "nativechat-icon.svg",
+  "filePatterns": [
+    "package.json$"
+  ]
+}
