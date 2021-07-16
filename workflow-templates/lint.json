@@ -1,5 +1,5 @@
 {
-  "name": "Line",
+  "name": "Lint",
   "description": "NativeChat CI lint template.",
   "iconName": "nativechat-icon.svg",
   "filePatterns": [
