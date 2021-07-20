@@ -1,7 +1,7 @@
 {
   "name": "Veracode Scan",
   "description": "NativeChat CI veracode scan template.",
-  "iconName": "nativechat-icon.svg",
+  "iconName": "nativechat-icon",
   "filePatterns": [
     "package.json$"
   ]
