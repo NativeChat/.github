@@ -1,0 +1,8 @@
+{
+  "name": "Release",
+  "description": "NativeChat CI release template.",
+  "iconName": "nativechat-icon.svg",
+  "filePatterns": [
+    "package.json$"
+  ]
+}
