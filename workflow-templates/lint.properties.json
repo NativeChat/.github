@@ -1,7 +1,7 @@
 {
   "name": "Lint",
   "description": "NativeChat CI lint template.",
-  "iconName": "nativechat-icon.svg",
+  "iconName": "nativechat-icon",
   "filePatterns": [
     "package.json$"
   ]

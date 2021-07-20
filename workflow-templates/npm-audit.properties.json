@@ -1,7 +1,7 @@
 {
   "name": "Npm Audit",
   "description": "NativeChat CI npm audit template.",
-  "iconName": "nativechat-icon.svg",
+  "iconName": "nativechat-icon",
   "filePatterns": [
     "package.json$"
   ]
